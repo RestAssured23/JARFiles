@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Regression_Testing]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Get_API(failed)">
+    <classes>
+      <class name="API.Automation.Regression.GetAPI_All">
+        <methods>
+          <include name="Dashboard_Portfolio"/>
+          <include name="Investor_Mandates"/>
+        </methods>
+      </class> <!-- API.Automation.Regression.GetAPI_All -->
+    </classes>
+  </test> <!-- Get_API(failed) -->
+</suite> <!-- Failed suite [Regression_Testing] -->

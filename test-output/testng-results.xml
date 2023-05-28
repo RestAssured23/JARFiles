@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="31" passed="31" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T15:37:39 IST" name="Regression_Testing" finished-at="2023-05-26T15:37:45 IST" duration-ms="6384">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T15:37:39 IST" name="Get_API" finished-at="2023-05-26T15:37:45 IST" duration-ms="6384">
+      <class name="API.Automation.Regression.GetAPI_All">
+        <test-method signature="Announcements()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:39 IST" name="Announcements" finished-at="2023-05-26T15:37:39 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Announcements -->
+        <test-method signature="Dashboard_portfolio_Allocation_Asset_All()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:39 IST" name="Dashboard_portfolio_Allocation_Asset_All" finished-at="2023-05-26T15:37:39 IST" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard_portfolio_Allocation_Asset_All -->
+        <test-method signature="Dashboard_portfolio_Allocation_category()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:39 IST" name="Dashboard_portfolio_Allocation_category" finished-at="2023-05-26T15:37:39 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard_portfolio_Allocation_category -->
+        <test-method signature="Dashboard_portfolio_Allocation_credit()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:39 IST" name="Dashboard_portfolio_Allocation_credit" finished-at="2023-05-26T15:37:39 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard_portfolio_Allocation_credit -->
+        <test-method signature="Dashboard_portfolio_Allocation_fi_style()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:39 IST" name="Dashboard_portfolio_Allocation_fi_style" finished-at="2023-05-26T15:37:40 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard_portfolio_Allocation_fi_style -->
+        <test-method signature="Feature()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:40 IST" name="Feature" finished-at="2023-05-26T15:37:40 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Feature -->
+        <test-method signature="Holding_Profile()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:40 IST" name="Holding_Profile" finished-at="2023-05-26T15:37:40 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Holding_Profile -->
+        <test-method signature="Investor_Goal_Holding()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:40 IST" name="Investor_Goal_Holding" finished-at="2023-05-26T15:37:40 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Investor_Goal_Holding -->
+        <test-method signature="Investor_Goals()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:40 IST" name="Investor_Goals" finished-at="2023-05-26T15:37:41 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Investor_Goals -->
+        <test-method signature="MF_Scheme()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:41 IST" name="MF_Scheme" finished-at="2023-05-26T15:37:41 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MF_Scheme -->
+        <test-method signature="NFO_Search()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:41 IST" name="NFO_Search" finished-at="2023-05-26T15:37:41 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NFO_Search -->
+        <test-method signature="ProductSearch_MF_Form()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:41 IST" name="ProductSearch_MF_Form" finished-at="2023-05-26T15:37:41 IST" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductSearch_MF_Form -->
+        <test-method signature="Select_Funds()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:41 IST" name="Select_Funds" finished-at="2023-05-26T15:37:42 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Funds -->
+        <test-method signature="Super_Savings()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:42 IST" name="Super_Savings" finished-at="2023-05-26T15:37:42 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Super_Savings -->
+        <test-method signature="User_Profile()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:42 IST" name="User_Profile" finished-at="2023-05-26T15:37:42 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- User_Profile -->
+        <test-method signature="lookup()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:42 IST" name="lookup" finished-at="2023-05-26T15:37:42 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lookup -->
+        <test-method signature="product_search_mf_form()[pri:0, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:42 IST" name="product_search_mf_form" finished-at="2023-05-26T15:37:42 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_search_mf_form -->
+        <test-method signature="Contact_Info()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:42 IST" name="Contact_Info" finished-at="2023-05-26T15:37:42 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact_Info -->
+        <test-method signature="Current_SIPS()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:42 IST" name="Current_SIPS" finished-at="2023-05-26T15:37:43 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Current_SIPS -->
+        <test-method signature="Dashboard()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:43 IST" name="Dashboard" finished-at="2023-05-26T15:37:43 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard -->
+        <test-method signature="Folio_Banklist()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:43 IST" name="Folio_Banklist" finished-at="2023-05-26T15:37:43 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Folio_Banklist -->
+        <test-method signature="Invested_Schemes()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:43 IST" name="Invested_Schemes" finished-at="2023-05-26T15:37:43 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invested_Schemes -->
+        <test-method signature="Pending_Payments()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:43 IST" name="Pending_Payments" finished-at="2023-05-26T15:37:44 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pending_Payments -->
+        <test-method signature="Power_STPs()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:44 IST" name="Power_STPs" finished-at="2023-05-26T15:37:44 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Power_STPs -->
+        <test-method signature="Recent_Transactions()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:44 IST" name="Recent_Transactions" finished-at="2023-05-26T15:37:44 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Recent_Transactions -->
+        <test-method signature="STP()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:44 IST" name="STP" finished-at="2023-05-26T15:37:44 IST" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- STP -->
+        <test-method signature="SWP()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:44 IST" name="SWP" finished-at="2023-05-26T15:37:44 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SWP -->
+        <test-method signature="Scheme_info()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:44 IST" name="Scheme_info" finished-at="2023-05-26T15:37:44 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scheme_info -->
+        <test-method signature="Systematic_plan()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:44 IST" name="Systematic_plan" finished-at="2023-05-26T15:37:45 IST" duration-ms="332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Systematic_plan -->
+        <test-method signature="Transactions_Authorization()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:45 IST" name="Transactions_Authorization" finished-at="2023-05-26T15:37:45 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Transactions_Authorization -->
+        <test-method signature="Triggers()[pri:1, instance:API.Automation.Regression.GetAPI_All@ab24484]" started-at="2023-05-26T15:37:45 IST" name="Triggers" finished-at="2023-05-26T15:37:45 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Triggers -->
+      </class> <!-- API.Automation.Regression.GetAPI_All -->
+    </test> <!-- Get_API -->
+  </suite> <!-- Regression_Testing -->
+</testng-results>
